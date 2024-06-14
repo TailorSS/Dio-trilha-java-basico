@@ -1,2 +1,3 @@
 # Dio-trilha-java-basico
-Projeto de simulação de uma conta bancária para o curso Java básico da DIO
+Repositório para armazenar exemplos e exercícios propostos pelo curso de Java básico da DIO
+
